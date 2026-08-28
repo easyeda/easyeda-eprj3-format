@@ -1,0 +1,14 @@
+{"type":"DOCHEAD"}||{"docType":"COMPONENT_GROUP_DATA","client":"ecab056ca49c02e8","uuid":"ea6d0c40a1576515@e52c45c5c33d3525","updateTime":1787900288226,"version":"1787900288118","editVersion":"2.3.0","user":{}}|
+{"type":"GROUP_DATA","ticket":2342,"id":"6797984a16179876"}||{"Device":"fcc75364d5340643"}|
+{"type":"GROUP_DATA","ticket":2347,"id":"fde235b382218cb5"}||{"Device":"f246369c995815cd"}|
+{"type":"DOCHEAD"}||{"docType":"VARIANT","client":"ecab056ca49c02e8","uuid":"1842c2217a907ee6","updateTime":1787900279433,"version":"1787900279312","editVersion":"2.3.0","user":{}}|
+{"type":"META","ticket":2333,"id":"META"}||{"title":"Variant1","schematicId":"e29c1d7709c34a2e","description":""}|
+{"type":"META_Z_INDEX","ticket":2334,"id":"META_Z_INDEX"}||{"zIndex":1}|
+{"type":"VARIANT_GROUPED","ticket":2335,"id":"VARIANT_GROUPED"}||{"notGrouped":false}|
+{"type":"DOCHEAD"}||{"docType":"COMPONENT_GROUP","client":"ecab056ca49c02e8","uuid":"e52c45c5c33d3525","updateTime":1787900288226,"version":"1787900288118","editVersion":"2.3.0","user":{}}|
+{"type":"META","ticket":2336,"id":"META"}||{"title":"","schematicId":"e29c1d7709c34a2e","belong":"1842c2217a907ee6","parent":""}|
+{"type":"META_Z_INDEX","ticket":2337,"id":"META_Z_INDEX"}||{"zIndex":0}|
+{"type":"DOCHEAD"}||{"docType":"COMPONENT_GROUP","client":"ecab056ca49c02e8","uuid":"15e9bb14cf02a822","updateTime":1787900325950,"version":"1787900325950","editVersion":"2.3.0","user":{}}|
+{"type":"META","ticket":2349,"id":"META"}||{"title":"Group1","schematicId":"e29c1d7709c34a2e","belong":"","parent":""}|
+{"type":"META_Z_INDEX","ticket":2350,"id":"META_Z_INDEX"}||{"zIndex":1}|
+{"type":"GROUP_INDEX","ticket":2354,"id":"1842c2217a907ee6"}||{"zIndex":1}
