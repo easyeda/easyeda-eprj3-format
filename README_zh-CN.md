@@ -103,6 +103,7 @@ MyProject/                                  # 工程根目录
 
 如需了解完整的 嘉立创EDA专业版 / EasyEDA Pro 文件格式说明，请查看：
 
+- **最新的文件格式**：[easyeda/easyeda-pro-format-skill](https://github.com/easyeda/easyeda-pro-format-skill)
 - **GitHub 仓库**: [easyeda/easyeda-pro-file-format](https://github.com/easyeda/easyeda-pro-file-format)
 - **在线文档（英文）**: [https://prodocs.easyeda.com/en/format/index/](https://prodocs.easyeda.com/en/format/index/)
 - **在线文档（中文）**: [https://prodocs.lceda.cn/cn/format/index/](https://prodocs.lceda.cn/cn/format/index/)

@@ -103,6 +103,7 @@ Each source file (`.esch2`, `.epcb2`, `.epan2`) contains a sequence of JSON reco
 
 For the complete EasyEDA Pro file format specification, please visit:
 
+- **The Latest Format**：[easyeda/easyeda-pro-format-skill](https://github.com/easyeda/easyeda-pro-format-skill)
 - **GitHub Repository**: [easyeda/easyeda-pro-file-format](https://github.com/easyeda/easyeda-pro-file-format)
 - **Online Documentation (English)**: [https://prodocs.easyeda.com/en/format/index/](https://prodocs.easyeda.com/en/format/index/)
 - **Online Documentation (中文)**: [https://prodocs.lceda.cn/cn/format/index/](https://prodocs.lceda.cn/cn/format/index/)
