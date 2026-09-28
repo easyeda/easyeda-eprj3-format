@@ -108,8 +108,8 @@ Each source file (`.esch2`, `.epcb2`, `.epan2`) contains a sequence of JSON reco
 
 For the complete EasyEDA Pro file format specification, please visit:
 
-- **The Latest Format**：[easyeda/easyeda-pro-format-skill](https://github.com/easyeda/easyeda-pro-format-skill)
-- **GitHub Repository**: [easyeda/easyeda-pro-file-format](https://github.com/easyeda/easyeda-pro-file-format)
+- **The Latest Format**：[easyeda/easyeda-pro-format-skill](https://github.com/easyeda/easyeda-format-skill)
+- **GitHub Repository**: [easyeda/easyeda-pro-file-format](https://github.com/easyeda/easyeda-file-format)
 - **Online Documentation (English)**: [https://prodocs.easyeda.com/en/format/index/](https://prodocs.easyeda.com/en/format/index/)
 - **Online Documentation (中文)**: [https://prodocs.lceda.cn/cn/format/index/](https://prodocs.lceda.cn/cn/format/index/)
 
@@ -223,7 +223,7 @@ MyProject/                                  # 工程根目录
 
 如需了解完整的 嘉立创EDA专业版 / EasyEDA Pro 文件格式说明，请查看：
 
-- **最新的文件格式**：[easyeda/easyeda-pro-format-skill](https://github.com/easyeda/easyeda-pro-format-skill)
-- **GitHub 仓库**: [easyeda/easyeda-pro-file-format](https://github.com/easyeda/easyeda-pro-file-format)
+- **最新的文件格式**：[easyeda/easyeda-format-skill](https://github.com/easyeda/easyeda-format-skill)
+- **GitHub 仓库**: [easyeda/easyeda-file-format](https://github.com/easyeda/easyeda-file-format)
 - **在线文档（英文）**: [https://prodocs.easyeda.com/en/format/index/](https://prodocs.easyeda.com/en/format/index/)
 - **在线文档（中文）**: [https://prodocs.lceda.cn/cn/format/index/](https://prodocs.lceda.cn/cn/format/index/)
